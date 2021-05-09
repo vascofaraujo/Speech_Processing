@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.56425 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "birthday_90817" 
+        xmin = 0 
+        xmax = 3.56425 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90288343048304 
+            text = "kat""orz@" 
+        intervals [2]:
+            xmin = 0.90288343048304 
+            xmax = 1.7545529647189806 
+            text = "diot""ubru" 
+        intervals [3]:
+            xmin = 1.7545529647189806 
+            xmax = 3.5497988174609274 
+            text = "d@m""ilnOfsentuSinuv""e~t6ioitu" 
+        intervals [4]:
+            xmin = 3.5497988174609274 
+            xmax = 3.56425 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 3.56425 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8906291925803646 
+            text = "catorze" 
+        intervals [2]:
+            xmin = 0.8906291925803646 
+            xmax = 0.9090105494343777 
+            text = "de outubro" 
+        intervals [3]:
+            xmin = 0.9090105494343777 
+            xmax = 1.7545529647189806 
+            text = "de outubro" 
+        intervals [4]:
+            xmin = 1.7545529647189806 
+            xmax = 3.56425 
+            text = "de mil novecentos e noventa e oito" 

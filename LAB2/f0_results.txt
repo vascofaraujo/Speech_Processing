@@ -1,0 +1,2 @@
+Average F0 (Praat): 161.36268867630145  Hz
+Average F0 (autocorr.): 168.0913 Hz

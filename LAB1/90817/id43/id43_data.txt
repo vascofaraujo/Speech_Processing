@@ -1,0 +1,6 @@
+speakerID=id43
+gender=F
+age=40
+name='Bárbara Barroso'
+url='https://www.youtube.com/watch?v=MxC5yLVeDAs&t=1209s'
+CLEAN_DUR=30:58
