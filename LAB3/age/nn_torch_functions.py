@@ -141,7 +141,7 @@ def train_batch(X, y, model, optimizer, criterion, **kwargs):
 	# propagate loss backward
 	loss.backward()
 
-	# updtate the weights
+	# update the weights
 	optimizer.step()
 
 	return loss
